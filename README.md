@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello world, I'm Charles 👋
 
+* 📚 I love going deep into the nooks and crannies of computer science.
+* 💬 Ask me about algorithms and data strcutres, especially when thinking about optimization.
+* 📣 Check out my talk on fault tolerance in distributed systems [here][1].
+* 🛠 Full stack software engineer working in Javascript, Typescript, React, Node/Express, PostgreSQL, and AWS technologies.
+
+[1]: https://drive.google.com/file/d/1Z1s0J5h95soDTtii3b_I-LGahGjKnIY6/view?usp=sharing
 <!--
 **cfgyer/cfgyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
